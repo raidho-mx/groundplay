@@ -41,3 +41,4 @@ En CPT > Hazlo a la par de la versión de servidor.
 - 2 Pídele a Freddie(a menos de que tú seas Freddie) un export de la Base de Datos actual.
 - 3 del archivo .sql que te mande Freddie, abrelo en tu editor de texto de preferencia y remplaza todos los urls "http://www.wearenotzombies.com/" por "localhost:8888/wanz/"
 - 4 Cambia dbname: localhost // user: root // pass: (none)
+- 5 Fork & Clone a wp-content/themes/
