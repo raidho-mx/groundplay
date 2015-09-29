@@ -104,7 +104,13 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 		color: #FFF;
 		margin: 0;
 	}
-
+	.wpcf7-captchar {
+		width: 75% !important;
+		display: inline-block !important;
+		float: right;
+	}
+	input[type=submit].wpcf7-submit {display: block;}
+	img.wpcf7-captchac {margin: .4em 0 1.5em;}
 
 	/*  Pagination  */
 	.pagination {
